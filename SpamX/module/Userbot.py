@@ -15,16 +15,16 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "Sᴘᴀᴍ X"
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗦𝗽𝗮𝗺𝗫 𝗛𝗲𝗿𝗲."
+pongg = PING_MSG if PING_MSG else "𝐊𝐕 -𝐱𝐃 °|"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/6b1e9e0212a148dc381e0.jpg"
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝐊𝐕 -𝐱𝐃 °|."
 
 
 rizoel = f"⁂ {Alivemsg} ⁂\n\n"
 rizoel += f"━───────╯•╰───────━\n"
-rizoel += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.4`\n"
-rizoel += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
-rizoel += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
+rizoel += f"➠ **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.4`\n"
+rizoel += f"➠ **𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{pyro_vr}`\n"
+rizoel += f"➠ **𝙰𝙿𝙿𝙻𝙴 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{__version__}`\n"
 rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RiZoeLX)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
 rizoel += f"➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
