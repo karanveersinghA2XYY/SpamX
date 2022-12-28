@@ -70,7 +70,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @RiZoeLX**
+**©@Old_worlds_map**
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @RiZoeLX**
+**© @Old_worlds_map**
 """
 
 
@@ -101,7 +101,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @RiZoeLX
+**© @Old_worlds_map
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @Old_worlds_map**
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @RiZoeLX**
+**© @Old_worlds_map**
 """
 
 
@@ -139,11 +139,11 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @RiZoeLX **
+**© @Old_worlds_map **
 """
 
 help_menu = f"""
-**SpamX Help Menu **
+**Apple X Help Menu **
 
 **There are following categories**
 
@@ -158,7 +158,7 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @Old_worlds_map**
 """
 
 
@@ -185,5 +185,5 @@ syntax:
 Syntax:
   {hl}msgall (your message)
 
-**© @RiZoeLX**
+**© @Old_worlds_map**
 """
