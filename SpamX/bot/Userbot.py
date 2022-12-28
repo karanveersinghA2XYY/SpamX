@@ -27,7 +27,7 @@ rizoel += f"➠ **𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽*
 rizoel += f"➠ **𝙰𝙿𝙿𝙻𝙴 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 **  : `{__version__}`\n"
 rizoel += f"➠ **𝙶𝚁𝙾𝚄𝙿** : [Join.](https://t.me/AppleXEmpire)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
-rizoel += f"➠ **𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+rizoel += f"➠ **𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴:** [•Repo•](https://te.legra.ph/file/b3726f9d6690e43357951.jpg)"
 
 
 async def get_time(seconds: int) -> str:
