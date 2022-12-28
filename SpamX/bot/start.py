@@ -12,12 +12,12 @@ Hn = "/"
 btn = InlineKeyboardMarkup(
                 [[
                     InlineKeyboardButton(
-                        "• Channel •", url="https://t.me/RiZoeLX"),
+                        "• ᴄʜᴀɴɴᴇʟ •", url="https://t.me/RiZoeLX"),
                     InlineKeyboardButton(
-                        "• Support •", url="https://t.me/DNHxHELL")
+                        "• sᴜᴘᴘᴏʀᴛ💖 •", url="https://t.me/ENGLISH_SPEAKERSSS")
                 ], [
                     InlineKeyboardButton(
-                        "• Repo •", url="https://github.com/RiZoeLX/SpamX")
+                        "• ʀᴇᴘᴏ •", url="https://github.com/RiZoeLX/SpamX")
                 ]]
             )
  
