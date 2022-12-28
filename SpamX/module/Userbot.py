@@ -25,9 +25,9 @@ rizoel += f"━───────╯•╰───────━\n"
 rizoel += f"➠ **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.4`\n"
 rizoel += f"➠ **𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{pyro_vr}`\n"
 rizoel += f"➠ **𝙰𝙿𝙿𝙻𝙴 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{__version__}`\n"
-rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RiZoeLX)\n"
+rizoel += f"➠ **𝙶𝚁𝙾𝚄𝙿** : [Join.](https://t.me/ENGLISH_SPEAKERSSS)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
-rizoel += f"➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+rizoel += f"➠ **𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
 
 
 async def get_time(seconds: int) -> str:
